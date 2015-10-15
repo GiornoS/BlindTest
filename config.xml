@@ -42,5 +42,5 @@ version = "1.0.0">
     <access origin="*" />
 
     
-    <gap:plugin name="com.dooble.phonertc.PhoneRTCPlugin" />
+    <gap:plugin name="com.dooble.plugin.phonertc" />
 </widget>
